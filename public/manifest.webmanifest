@@ -1,6 +1,6 @@
 {
     "name": "Budget Tracker PWA",
-    "short_name": "Budget Tracker PWA",
+    "short_name": "Budget Tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#fff",
