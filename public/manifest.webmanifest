@@ -1,0 +1,17 @@
+{
+    "name": "Budget Tracker PWA",
+    "short_name": "Budget Tracker PWA",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Now you can track your transactions offline! Budgeting made easier for folks on the go.",
+    "icons": [{
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+  }
