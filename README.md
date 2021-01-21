@@ -11,6 +11,7 @@ The Budge Tracker provides a modern solution to calculating your expenses on the
 If you would like to use the budget tracker application, [click here](https://young-peak-40815.herokuapp.com/) to use the site online. If you would like to download the application, click the plus sign in the search bar next to the url. Though the application does not have to be downloaded to use offline, that option is available for users who want even more ease of access to the Budget Tracker.
 To view the github repository for this application, [click here](https://github.com/Aikeh2021/Budget-Tracker-PWA).
 
+![Budget Tracker Demo](public/images/budget-tracker-demo.gif)
 
 ##
 
